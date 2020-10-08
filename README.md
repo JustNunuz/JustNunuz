@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/Coder-This%20guys%20likes%20to%20code-red
+img.shields.io/badge/Coder-This%20guys%20likes%20to%20code-red
 <!--
 **JustNunuz/JustNunuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
