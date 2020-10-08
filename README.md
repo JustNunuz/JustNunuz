@@ -5,6 +5,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?JustNunuz=<JustNunuz>&theme=<THEME_NAME>" />
+About me:
+https://img.shields.io/badge/Coder-This%20guys%20likes%20to%20code-red
 
 Here are some ideas to get you started:
 
