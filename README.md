@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a pyton workshop
+- 🔭 I’m currently working on a python workshop
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with becoming a Pythoneer
