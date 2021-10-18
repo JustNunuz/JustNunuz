@@ -8,8 +8,6 @@
 >The best way to predict the future is to create it.
 Peter Drunker.
 
-## Connect with me
-<i class="ri-linkedin-fill"></i>
 <!--
 **JustNunuz/JustNunuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
