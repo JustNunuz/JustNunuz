@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Python workshop
-- 🌱 I’m currently learning everything I can.
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with becoming a Pythoneer
-
-
-## 2020 TODO List
-- [x] Participate in Hacktober Fest
-- [x] Contribute more to open source projects
-- [x] S.T.C Python Workshop
+- 🔭 I'm Nunu
+- 🌱 I’m a Cybersecurity enthusiast
+- 👯 I’m working on scripting and crypographic algorithms.
 
 ## Words to live by:
 >The best way to predict the future is to create it.
