@@ -9,8 +9,10 @@ I believe there are absolutely zero systems that
 are not vulnerable, which is why I’m passionate  
 about helping organizations improve their security  
 posture.  
-  
- 
+
+
+  ![giphy](https://user-images.githubusercontent.com/59164172/227771121-1f2287f7-a972-45d8-936a-b5ebaec3681c.gif)
+
 
 ## 🔭Projects in progress
 
